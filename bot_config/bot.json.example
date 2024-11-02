@@ -1,0 +1,8 @@
+{
+    "seed":  "<seed>",
+    "addressIndex": 0,
+    "privateKey": "<privateKey>",
+    "gamesToPlay": [
+        "0x2a5c8a504ce137a9d1760c3da0e606c9edf2561414b128edf23ef03c6c672215"
+    ]
+}

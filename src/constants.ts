@@ -1,0 +1,1 @@
+export const PACKAGE_ADDRESS = '0x4dbee260aa33fd7f87c723dcf2a08e5a29091702f2afd27c2c19d20d56d63bc5';
